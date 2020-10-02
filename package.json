@@ -1,0 +1,31 @@
+{
+  "name": "chainwave-yearn-strategy",
+  "version": "1.0.0",
+  "description": "Yearn Strategy Implementation by Chainwave",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminmbrown/chainwave-yearn-strategy.git"
+  },
+  "keywords": [
+    "yearn",
+    "yfi",
+    "blockchain",
+    "ethereum",
+    "eth",
+    "crypto",
+    "truffle"
+  ],
+  "author": "Benjamin M. Brown for Chainwave LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminmbrown/chainwave-yearn-strategy/issues"
+  },
+  "homepage": "https://github.com/benjaminmbrown/chainwave-yearn-strategy#readme",
+  "dependencies": {
+    "web3": "^1.3.0"
+  }
+}
